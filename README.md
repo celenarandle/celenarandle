@@ -1,4 +1,4 @@
-, I'm Celena, an <a href="https://www.linkedin.com/in/celena-randle-b704a6267/">IT Professional</a>☺</h1>
+Hi, I'm Celena, an <a href="https://www.linkedin.com/in/celena-randle-b704a6267/">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
