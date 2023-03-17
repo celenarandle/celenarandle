@@ -7,7 +7,7 @@ Hi, I'm Celena, an <a href="https://www.linkedin.com/in/celena-randle-b704a6267/
   - [osTicket: Post-Installation Configuration](https://github.com/joshmadakorcc/post-install-config)
   
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
+  - [Configuring Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
  
 <h2>🤳Connect with me:</h2>
 [linkedin]: (https://www.linkedin.com/in/celena-randle-b704a6267/)
