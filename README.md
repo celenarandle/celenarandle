@@ -10,4 +10,4 @@ Hi, I'm Celena, an <a href="https://www.linkedin.com/in/celena-randle-b704a6267/
   - [Configuring Active Directory within Azure VMs](https://github.com/celenarandle/configure-ad)
  
 <h2>🤳Connect with me:</h2>
-[linkedin]: (https://www.linkedin.com/in/celena-randle-b704a6267/)
+[linkedin]: (https://www.linkedin.com/in/celena-randle/)
